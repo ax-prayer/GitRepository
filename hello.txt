@@ -2,10 +2,4 @@ hello
 test2
 test3
 test4
-<<<<<<< HEAD
-test new branch
-Creating a new branch are easy .error
-=======
-test new branch	
-Creating a new branch is easy .
->>>>>>> feature1
+this is first line test1
